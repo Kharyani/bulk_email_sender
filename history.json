@@ -1,0 +1,74 @@
+[
+    {
+        "email": "ali@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:37:02.026156"
+    },
+    {
+        "email": "sara@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:37:12.887567"
+    },
+    {
+        "email": "john@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:37:23.186985"
+    },
+    {
+        "email": "ali@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:53:48.158172"
+    },
+    {
+        "email": "sara@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:53:59.328399"
+    },
+    {
+        "email": "john@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:54:10.020714"
+    },
+    {
+        "email": "ali@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:58:03.242871"
+    },
+    {
+        "email": "sara@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:58:13.479848"
+    },
+    {
+        "email": "john@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 16:58:24.043048"
+    },
+    {
+        "email": "ali@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 17:01:27.420979"
+    },
+    {
+        "email": "sara@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 17:01:37.750842"
+    },
+    {
+        "email": "john@gmail.com",
+        "subject": "Test Email",
+        "status": "Failed",
+        "timestamp": "2026-04-14 17:01:48.912267"
+    }
+]
